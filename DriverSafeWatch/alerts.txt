@@ -1,0 +1,63 @@
+Trip 1 started at: 2024-10-18 22:34:06
+Trip 1 started at: 2024-10-18 22:34:45
+Trip 2 started at: 2024-10-18 22:35:06
+2024-10-18 22:35:19: person is not wearing a seatbelt
+2024-10-18 22:35:26: person is not wearing a seatbelt
+2024-10-18 22:35:36: person is not wearing a seatbelt
+2024-10-18 22:35:46: person is not wearing a seatbelt
+2024-10-18 22:35:56: person is not wearing a seatbelt
+2024-10-18 22:36:06: person is not wearing a seatbelt
+2024-10-18 22:36:16: person is not wearing a seatbelt
+2024-10-18 22:36:26: person is not wearing a seatbelt
+2024-10-18 22:36:36: You are too sleepy!
+2024-10-18 22:36:36: person is not wearing a seatbelt
+2024-10-18 22:36:47: person is not wearing a seatbelt
+2024-10-18 22:36:55: You are too sleepy!
+2024-10-18 22:36:57: person is not wearing a seatbelt
+2024-10-18 22:37:07: person is not wearing a seatbelt
+2024-10-18 22:37:17: person is not wearing a seatbelt
+2024-10-18 22:37:27: person is not wearing a seatbelt
+2024-10-18 22:37:37: person is not wearing a seatbelt
+Trip 2 ended at: 2024-10-18 22:37:41
+Trip 3 started at: 2024-10-18 22:40:49
+Trip 4 started at: 2024-10-18 22:41:10
+2024-10-18 22:41:21: person is not wearing a seatbelt
+2024-10-18 22:41:31: person is not wearing a seatbelt
+2024-10-18 22:41:41: person is not wearing a seatbelt
+2024-10-18 22:41:41: You are too sleepy!
+2024-10-18 22:41:51: person is not wearing a seatbelt
+2024-10-18 22:41:56: You are too sleepy!
+2024-10-18 22:42:01: person is not wearing a seatbelt
+2024-10-18 22:42:11: person is not wearing a seatbelt
+2024-10-18 22:42:19: You are too sleepy!
+2024-10-18 22:42:21: person is not wearing a seatbelt
+2024-10-18 22:42:31: person is not wearing a seatbelt
+2024-10-18 22:42:41: person is not wearing a seatbelt
+2024-10-18 22:42:45: You are too sleepy!
+2024-10-18 22:42:51: person is not wearing a seatbelt
+2024-10-18 22:42:54: You are too sleepy!
+2024-10-18 22:43:01: person is not wearing a seatbelt
+Trip 4 started at: 2024-10-18 22:43:37
+Trip 4 started at: 2024-10-18 22:44:07
+Trip 4 ended at: 2024-10-18 22:44:14
+Trip 5 started at: 2024-10-18 22:49:55
+2024-10-18 22:50:06: person is not wearing a seatbelt
+2024-10-18 22:50:15: person is not wearing a seatbelt
+2024-10-18 22:50:17: You are too sleepy!
+2024-10-18 22:50:25: person is not wearing a seatbelt
+2024-10-18 22:50:35: person is not wearing a seatbelt
+2024-10-18 22:50:40: You are too sleepy!
+Trip 5 ended at: 2024-10-18 22:50:54
+Trip 6 started at: 2024-10-18 23:02:12
+Trip 6 started at: 2024-10-18 23:02:16
+Trip 6 started at: 2024-10-18 23:02:36
+2024-10-18 23:02:50: person is not wearing a seatbelt
+2024-10-18 23:02:56: person is not wearing a seatbelt
+2024-10-18 23:03:06: person is not wearing a seatbelt
+2024-10-18 23:03:07: You are too sleepy!
+2024-10-18 23:03:16: person is not wearing a seatbelt
+2024-10-18 23:03:26: person is not wearing a seatbelt
+2024-10-18 23:03:30: You are too sleepy!
+Trip 6 ended at: 2024-10-18 23:03:34
+Trip 7 started at: 2024-10-19 10:24:50
+Trip 7 started at: 2024-10-19 10:25:32
